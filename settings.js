@@ -30,10 +30,10 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+254106424180'] // owner number
-global.ownername = "Tony Blair❯❯" // owner name
+global.ownername = "Tony Blair❯❯" "Aalan❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "Kenya Africa" // location
+global.location = "Kenya Africa" "Mongolia Asia" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ BLAIR MD]' //
 
 //database
-global.premium = ['+254106424180'] //ur premium numbers
+global.premium = ['+254106424180''+97691538545'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
